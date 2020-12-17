@@ -3,5 +3,7 @@
 ### Please submit your name if youre a contributor!
 
 - Aaron
+
+- manami
 - Zac
 - Andy
